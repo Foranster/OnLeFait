@@ -1,0 +1,1 @@
+<h1>Créer un sujet pour la recherche "<?php echo $_GET['libelle'] ?>"</h1>
